@@ -1,0 +1,14 @@
+3-minute Pitch Script — FinSentinel
+
+(0:00-0:20) Hook: My uncle almost lost his life savings to a forwarded Telegram tip. Retail investors face this every day.
+
+(0:20-0:50) Problem: Fake/unregistered advisors and pump-and-dump messages spread fast on messaging platforms. SEBI issues advisories but they're reactive.
+
+(0:50-1:30) Solution: FinSentinel — an AI-powered watchdog. Paste a suspicious message and receive a risk verdict with an explainable rationale. Multilingual and API-ready.
+
+(1:30-2:00) Tech & Feasibility: Rule-based + NLP prototype today; replace with LLM prompts / trained classifier. Streamlit demo + Flask API. Quick to deploy as SDK to brokers or as bot integration.
+
+(2:00-2:30) Impact: Protects retail investors, aligns with SEBI’s investor protection mandate, scalable across languages and platforms.
+
+(2:30-3:00) Ask & Close: We're seeking mentorship for model tuning and partner integrations with custodians/brokers. FinSentinel protects trust in the market.
+
