@@ -1,7 +1,2 @@
-FinSentinel — Demo Script (60-90s)
-
-1. Quick hook (5s): "Millions of retail investors receive stock tips daily — some are scams. Here’s FinSentinel."
-2. Show paste box and example message (10s): paste: "Guaranteed 2x returns in 1 week — BUY XYZ NOW"
-3. Click Analyze — show verdict: "⚠️ Likely Scam" and rationale: unrealistic returns + urgent CTA + no registration info (15s)
-4. Show a safe/neutral message and verdict (10s)
-5. Closing (10s): "MVP shows immediate value — next: integrate with messaging platforms, add languages and LLM-backed explainability."
+## Demo 🎥
+Watch the 2-min demo here: [Demo Video](https://drive.google.com/file/d/1Xwpd_2ToQ_zArW_vgspryoxxk8TYdrLR/view?usp=drive_link)
